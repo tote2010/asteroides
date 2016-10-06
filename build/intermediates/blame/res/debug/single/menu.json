@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/tote/StudioProjects/Asteroides/app/build/intermediates/res/merged/debug/menu/puntuaciones.xml",
+        "source": "/home/tote/StudioProjects/Asteroides/app/src/main/res/menu/puntuaciones.xml"
+    },
+    {
+        "merged": "/home/tote/StudioProjects/Asteroides/app/build/intermediates/res/merged/debug/menu/preferencias.xml",
+        "source": "/home/tote/StudioProjects/Asteroides/app/src/main/res/menu/preferencias.xml"
+    },
+    {
+        "merged": "/home/tote/StudioProjects/Asteroides/app/build/intermediates/res/merged/debug/menu/juego.xml",
+        "source": "/home/tote/StudioProjects/Asteroides/app/src/main/res/menu/juego.xml"
+    },
+    {
+        "merged": "/home/tote/StudioProjects/Asteroides/app/build/intermediates/res/merged/debug/menu/acerca_de.xml",
+        "source": "/home/tote/StudioProjects/Asteroides/app/src/main/res/menu/acerca_de.xml"
+    },
+    {
+        "merged": "/home/tote/StudioProjects/Asteroides/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/tote/StudioProjects/Asteroides/app/src/main/res/menu/main.xml"
+    }
+]

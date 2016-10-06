@@ -1,0 +1,54 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="30dip"
+    tools:context="com.example.Asteroides.MainActivity" >
+
+	<TextView 
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/tituloAplicacion"
+      android:gravity="center"
+      android:textSize="@android:dimen/app_icon_size"
+      android:layout_marginBottom="20dip"
+      android:id="@+id/title"/>
+
+	<TableLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center"
+	    android:stretchColumns="*">
+
+	    <TableRow>
+			<Button android:id="@+id/Play"
+			  android:layout_height="wrap_content"
+		    	android:layout_width="match_parent"
+		      	android:text="@string/Arrancar"
+		      	android:onClick="lanzarJuego"/>
+			
+		  	<Button android:id="@+id/config"
+		      android:layout_height="wrap_content"
+		      android:layout_width="match_parent"
+		      android:text="@string/config"
+		      android:onClick="lanzarPreferencias"/>
+		</TableRow>	  	
+	
+		<TableRow>
+		  	<Button android:id="@+id/Button03"
+		      android:layout_height="wrap_content"
+		      android:layout_width="match_parent"
+		      android:text="@string/Acercade"/>
+		
+		  	<Button android:id="@+id/Button04"
+		      android:layout_height="wrap_content"
+		      android:layout_width="match_parent"
+		      android:text="@string/Salir"
+		      android:onClick="salir"/>
+		</TableRow>	 
+	</TableLayout>
+
+  </LinearLayout>

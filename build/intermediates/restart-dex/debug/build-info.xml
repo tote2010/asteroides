@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="mdpi"
+    format="7"
+    timestamp="22440671089995"
+    token="431167288191173098" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/tote/StudioProjects/Asteroides/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="22440671089995" >
+        <artifact
+            location="/home/tote/StudioProjects/Asteroides/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

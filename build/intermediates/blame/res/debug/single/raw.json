@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tote/StudioProjects/Asteroides/app/build/intermediates/res/merged/debug/raw/audio.xxx",
+        "source": "/home/tote/StudioProjects/Asteroides/app/src/main/res/raw/audio.xxx"
+    },
+    {
+        "merged": "/home/tote/StudioProjects/Asteroides/app/build/intermediates/res/merged/debug/raw/gestures",
+        "source": "/home/tote/StudioProjects/Asteroides/app/src/main/res/raw/gestures"
+    }
+]
